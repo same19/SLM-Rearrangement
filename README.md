@@ -8,4 +8,4 @@ The ability to assemble and reconfigure individual atoms is central to performin
 
 <img width="705" height="519" alt="Screenshot 2026-10-21 at 12 52 06 AM" src="https://github.com/user-attachments/assets/486b89d3-5264-482e-8a45-cafc2608e5d4" />
 
-Read the full pdf [here](https://arxiv.org/pdf/2610.27053).
+Read the full pdf on [arXiv](https://arxiv.org/pdf/2610.27053).
